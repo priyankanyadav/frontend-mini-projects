@@ -50,5 +50,24 @@ A small **fan club site** with navigation and interactive sections.
 - **JavaScript (basic interactivity)**
 
 ---
+## 🎯 Objectives
+- Strengthen **HTML & CSS fundamentals**.  
+- Gain hands-on practice with **page layouts, forms, and navigation**.  
+- Build **mini-projects** that demonstrate practical frontend development skills.
 
-## 📂 Project Structure
+---
+
+## 🔮 Future Enhancements
+- Add **JavaScript functionality** (e.g., dynamic weather API, form validation).  
+- Improve **responsiveness for mobile devices**.  
+- Create a combined **portfolio landing page** linking all projects.
+
+---
+
+## 👩‍💻 Author
+**Priyanka Yadav**  
+Software Developer | Frontend Enthusiast | Lifelong Learner  
+
+📧 Email: PriyankaNitinYadav1144@gmail.com  
+🌍 Location: Mississauga, ON  
+
